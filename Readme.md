@@ -70,9 +70,9 @@
 ## 📋 Experiments Table  
 | Exp. | Topic | Dataset | Subfolder Link |  
 |------|-------|---------|----------------|  
-| 1 | INTRODUCTION TO TENSERFLOW | no_datasets | [Code](./notebooks/exp1_linear_regression.ipynb) |  
-| 2 | Boxplot | Excel file | [Notebook](./notebooks/exp2_cnn_mnist.ipynb) |  
-| 3 | CIFAR10 CLASSIFICATION | CIFAR10 | [Script](./scripts/exp3_lstm_imdb.py) |  
+| 1 | INTRODUCTION TO TENSERFLOW | no_datasets | [Code](./EXPERIMENT_1) |  
+| 2 | Boxplot | Excel file | [Notebook](./EXPERIMENT_2) |  
+| 3 | CIFAR10 CLASSIFICATION | CIFAR10 | [Script](./EXPERIMENT_3) |  
 
 
 ---
