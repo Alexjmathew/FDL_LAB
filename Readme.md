@@ -1,4 +1,4 @@
-# 🚀 Deep Learning Lab - Interactive README 🎮  
+# 🚀 Deep Learning Lab  🎮  
 
 **✨ Prepared by:** Alex J Mathew (Reg No: **MLM22AIM009**)  
 **🏛️ University:** *APJ Abdul Kalam Technological University* (Est. 2014)  
@@ -73,6 +73,7 @@
 | 1 | INTRODUCTION TO TENSERFLOW | no_datasets | [Code](./EXPERIMENT_1) |  
 | 2 | Boxplot | Excel file | [Notebook](./EXPERIMENT_2) |  
 | 3 | CIFAR10 CLASSIFICATION | CIFAR10 | [Script](./EXPERIMENT_3) |  
+| 4 | Kaiming and Xavier's initialization | CIFAR10 | [Script](./EXPERIMENT_5) | 
 
 
 ---
@@ -84,10 +85,3 @@
 
 ---
 
-
-
----
-
-**🎉 Happy Coding! 🎉**  
-
-*(🔃 Refresh for more animations!)* 🚀
