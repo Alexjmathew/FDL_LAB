@@ -70,9 +70,9 @@
 ## 📋 Experiments Table  
 | Exp. | Topic | Dataset | Subfolder Link |  
 |------|-------|---------|----------------|  
-| 1 | Linear Regression | Synthetic | [Code](./notebooks/exp1_linear_regression.ipynb) |  
-| 2 | CNN (MNIST) | MNIST | [Notebook](./notebooks/exp2_cnn_mnist.ipynb) |  
-| 3 | LSTM Sentiment | IMDB | [Script](./scripts/exp3_lstm_imdb.py) |  
+| 1 | INTRODUCTION TO TENSERFLOW | no_datasets | [Code](./notebooks/exp1_linear_regression.ipynb) |  
+| 2 | Boxplot | Excel file | [Notebook](./notebooks/exp2_cnn_mnist.ipynb) |  
+| 3 | CIFAR10 CLASSIFICATION | CIFAR10 | [Script](./scripts/exp3_lstm_imdb.py) |  
 
 
 ---
