@@ -88,10 +88,6 @@
 
 ---
 
-**🔥 *"AI won't replace you, but a person using AI will!"* 🔥**  
-
----
-
 **🎉 Happy Coding! 🎉**  
 
 *(🔃 Refresh for more animations!)* 🚀
