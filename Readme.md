@@ -65,16 +65,15 @@
 
 ---
 
-## 🧪 **Exciting Lab Exercises!**  
-| # | Task | Dataset | Emoji |
-|---|------|---------|-------|
-| 1️⃣ | Linear Regression | Synthetic | 📉 |
-| 2️⃣ | CNN for MNIST Digits | MNIST | ✋ |
-| 3️⃣ | Sentiment Analysis (LSTM/GRU) | IMDB | 🎬 |
-| 4️⃣ | Stock Prediction (RNN) | NIFTY-50 | 📈 |
-| 5️⃣ | Autoencoder Translation | English-Hindi | 🌍 |
+---
 
-**🌟 *Mandatory tasks marked with bold!***  
+## 📋 Experiments Table  
+| Exp. | Topic | Dataset | Subfolder Link |  
+|------|-------|---------|----------------|  
+| 1 | Linear Regression | Synthetic | [Code](./notebooks/exp1_linear_regression.ipynb) |  
+| 2 | CNN (MNIST) | MNIST | [Notebook](./notebooks/exp2_cnn_mnist.ipynb) |  
+| 3 | LSTM Sentiment | IMDB | [Script](./scripts/exp3_lstm_imdb.py) |  
+
 
 ---
 
