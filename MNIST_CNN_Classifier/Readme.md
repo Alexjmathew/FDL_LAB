@@ -1,4 +1,6 @@
-MNIST Handwritten Digit Classification using a CNN
+**MNIST Handwritten Digit Classification using a CNN**
+
+
 📖 Project Overview
 This project demonstrates a classic computer vision task: classifying handwritten digits from the MNIST dataset. It utilizes a Convolutional Neural Network (CNN) built with TensorFlow and Keras to achieve high accuracy in recognizing digits from 0 to 9.
 
