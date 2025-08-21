@@ -1,4 +1,4 @@
-Image Classification on CIFAR-10 using Neural Networks
+
 Aim
 
 To implement a Python program for the classification of images in the CIFAR-10 dataset using a neural network.
