@@ -75,7 +75,7 @@
 | 3 | CIFAR10 CLASSIFICATION | CIFAR10 | [Script](./EXPERIMENT_3) |  
 | 4 | Kaiming and Xavier's initialization | CIFAR10 | [Script](./EXPERIMENT_5) | 
 | 5 | MNIST DIGIT CLASSIFICATION | MNIST | [Script](./EXPERIMENT_5) | 
-| 6 | Digit Classification with VGGnet-19 on MNIST | MNIST | [Script](./EXPERIMENT_5) | 
+| 6 | Digit Classification with VGGnet-19 on MNIST | MNIST | [Script](./Digit%20Classification%20with%20VGGnet-19%20on%20MNIST) | 
 
 
 ---
