@@ -1,4 +1,4 @@
-Digit Classification with VGGnet-19 on MNIST
+# MNIST Digit Classification with VGGnet-19
 Overview
 
 This experiment implements digit classification using a pre-trained VGGnet-19 model on the MNIST dataset. The project demonstrates transfer learning by adapting a network originally trained on ImageNet to recognize handwritten digits.
