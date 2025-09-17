@@ -74,7 +74,7 @@
 | 2 | Boxplot | Excel file | [Notebook](./EXPERIMENT_2) |  
 | 3 | CIFAR10 CLASSIFICATION | CIFAR10 | [Script](./EXPERIMENT_3) |  
 | 4 | Kaiming and Xavier's initialization | CIFAR10 | [Script](./EXPERIMENT_5) | 
-| 5 | MNIST DIGIT CLASSIFICATION | MNIST | [Script](./EXPERIMENT_5) | 
+| 5 | MNIST DIGIT CLASSIFICATION | MNIST | [Script](./MNIST_CNN_Classifier) | 
 | 6 | Digit Classification with VGGnet-19 on MNIST | MNIST | [Script](./Digit%20Classification%20with%20VGGnet-19%20on%20MNIST) | 
 | 7 | Simple RNN on IMDB Dataset| MNIST | [Script](./Simple%20RNN%20on%20IMDB%20Dataset) |
 
