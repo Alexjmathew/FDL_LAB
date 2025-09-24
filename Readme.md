@@ -77,7 +77,7 @@
 | 5 | MNIST DIGIT CLASSIFICATION | MNIST | [Script](./MNIST_CNN_Classifier) | 
 | 6 | Digit Classification with VGGnet-19 on MNIST | MNIST | [Script](./Digit%20Classification%20with%20VGGnet-19%20on%20MNIST) | 
 | 7 | Simple RNN on IMDB Dataset| IMDB  | [Script](./Simple%20RNN%20on%20IMDB%20Dataset) |
-| 8 | Comparative Analysis of LSTM, GRU, and RNN Performance| IMDB  | [Script](./Simple%20RNN%20on%20IMDB%20Dataset) |
+| 8 | Comparative Analysis of LSTM, GRU, and RNN Performance| IMDB  | [Script](./Comparative%20Analysis%20of%20LSTM%2C%20GRU%2C%20and%20RNN%20Performance) |
 
 
 ---
